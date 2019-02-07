@@ -1,0 +1,118 @@
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.exe.config
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.exe
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.pdb
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMSBank.resources
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriBilgileri.resources
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.exe
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.pdb
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapEkle.resources
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriEkle.resources
+C:\Users\Lenovo\Desktop\visual studio\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapIslemleri.resources
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.exe.config
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.exe
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.pdb
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.exe
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.pdb
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMSBank.resources
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapEkle.resources
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapIslemleri.resources
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriEkle.resources
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriBilgileri.resources
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.Properties.Resources.resources
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.csproj.GenerateResource.Cache
+C:\Users\fatma\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaCekme.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.exe.config
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.exe
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.pdb
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.exe
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\bin\Debug\BankaUygulaması.pdb
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMSBank.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaYatirma.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapEkle.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapIslemleri.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriEkle.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriBilgileri.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaCekme.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.Properties.Resources.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\bin\Debug\BankaUygulaması.exe.config
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.exe
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.pdb
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\bin\Debug\BankaUygulaması.exe
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\bin\Debug\BankaUygulaması.pdb
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.frmMSBank.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaYatirma.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapEkle.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapIslemleri.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriEkle.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriBilgileri.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaCekme.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.Properties.Resources.resources
+C:\Users\asus\Desktop\BankaUygulaması4\BankaUygulaması\obj\Debug\BankaUygulaması.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.exe.config
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.exe
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.pdb
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.exe
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.pdb
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMSBank.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaYatirma.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapEkle.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapIslemleri.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriEkle.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriBilgileri.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaCekme.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapÖzeti.resources
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHavaleYapma.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.exe.config
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.exe
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.pdb
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMSBank.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHavaleYapma.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapKapatma.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapÖzeti.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaYatirma.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapEkle.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapIslemleri.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriEkle.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriBilgileri.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaCekme.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.Properties.Resources.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.exe
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.pdb
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapKapatma.resources
+C:\Users\asus\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmBankaGelirGiderRaporu.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.exe.config
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.exe
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.pdb
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.exe
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\bin\Debug\BankaUygulaması.pdb
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMSBank.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmBankaGelirGiderRaporu.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHavaleYapma.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapKapatma.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapÖzeti.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaYatirma.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapEkle.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapIslemleri.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriEkle.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmMusteriBilgileri.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmParaCekme.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\NYP\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\BankaUygulaması3\BankaUygulaması\obj\Debug\BankaUygulaması.frmBankaGelirGiderRaporu.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmBankaGelirGiderRaporu.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHavaleYapma.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapKapatma.resources
+C:\Users\asus\Desktop\BankaUygulaması\BankaUygulaması\obj\Debug\BankaUygulaması.frmHesapÖzeti.resources
